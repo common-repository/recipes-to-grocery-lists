@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mmmlist_iframe_title {
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:18px;
+font-weight:bold;
+line-height:40px;
+padding-bottom:10px;
+padding-left:10px;
+}
+.mmmlist_leftfloater {
+	float:left;
+	padding-left:5px;
+}
+.mmmlist_clear {
+	clear:both;
+}
+.mmmlist_iframe_caption {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+line-height:20px;
+padding-bottom:20px;
+}
+.mmmlist_input{
+border:#000000 1px solid;
+}
+.mmmlist_padtop {
+padding-top:5px;
+}
+.mmmlist_addbutton {
+padding:20px;
+padding-left:150px;
+
+}
